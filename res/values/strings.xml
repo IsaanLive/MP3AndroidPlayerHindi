@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3 डाउनलोडर</string>
+    <string name="market_url">com.euroasiamp3.hindi</string>
+    <string name="footer_message">आप MP3 डाउनलोडर  v1.0.8 का चला रहे हैं</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        इस सॉफ्टवेयर की आधिकारिक अनुमति दी प्रयोग ऑडियो सार्वजनिक डोमेन में आसानी से उपलब्ध फाइलों तक ही सीमित है! आप के रूप में निवास, गूगल Android बाजार और सेवाओं के अपने वाहक शर्तें के अपने देश के कानून के द्वारा निर्दिष्ट नियमों और फ्रेम में इस सॉफ्टवेयर का उपयोग करने के लिए सहमत हैं| सॉफ्टवेयर सार्वजनिक खोज इंजन के लिए एक मात्र इंटरफ़ेस है और EuroAsia सिंगापुर दुरुपयोग के मामले में उत्तरदायी नहीं है| इस उपकरण का एक अवैध उपयोग सख्त वर्जित है| आप अकेले अपने कार्यों के लिए जिम्मेदार हैं|
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">वीडियो देखें</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a150ce4d1221108</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">खोजें</string>
+    <string name="btn_topten_name">शीर्ष गीत</string>
+    <string name="btn_downloads_name">डाउनलोड</string>
+    <string name="btn_rate_name">दर आवेदन</string>
+    <string name="btn_share_name">शेयर आवेदन</string>
+    <string name="btn_cancel_name">रद्द करें</string>
+    <string name="download_song">गाना डाउनलोड करें</string>
+    <string name="share_song">गाना शेयर करें</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">गीत या कलाकार दर्ज करें</string>
+    
+    <!-- Names -->
+    <string name="no_results">कोई परिणाम नहीं मिले</string>
+    <string name="error_results">लोड करने में त्रुटि परिणाम</string>
+    <string name="no_active">यह हो सकता है कि आपके पास एक सक्रिय इंटरनेट कनेक्शन नहीं है या कमजोर संकेत प्रकट होता है. अपने वाईफ़ाई या डेटा को ओन करें और फिर कोशिश करें.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">इस गीत को सुनें </string>
+    <string name="dlmessage">अरे यह गाना डाउनलोड करें :) </string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">गाना लोड होने में असफल रहा | कृपया फिर कोशिश करें.</string>
+    <string name="addedqueue">डाउनलोड क़तार में जोड़ा गया</string>
+</resources>
